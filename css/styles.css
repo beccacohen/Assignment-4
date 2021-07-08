@@ -81,3 +81,12 @@ main img:hover {
 main img {
   transition: .3s;
 }
+
+img{
+  float: right;
+  margin: 0 20px;
+}
+
+span.highlight {
+  color: red;
+}
