@@ -1,0 +1,45 @@
+/*============================
+
+Universal Styling
+
+============================*/
+
+* {
+  margin: 0
+  padding: 0
+  border: 0
+}
+
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin-bottom: 20px;
+}
+
+header h1 {
+  display: inline-block;
+  width: 30%;
+}
+
+header nav {
+  display: inline-block;
+  width: 65%;
+}
+
+header li {
+  display: inline-block;
+  margin: 0 40px
+}
+
+header nav a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #234058;
+  font-weight: bold;
+}
